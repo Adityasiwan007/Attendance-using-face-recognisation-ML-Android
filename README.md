@@ -2,8 +2,7 @@
 This is an open source android application that does face recognition using OpenCV. Originally made for attendence marking in college, 
 
 
-### Screenshots
-<img src="https://raw.githubusercontent.com/abhn/marvel/master/docs/static/collage.jpg" width="75%"/>
+
 
 1. **Home page** - For switching between training and testing
 2. **Home > Training (enter ID)** - Enter ID for the train images
